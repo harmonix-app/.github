@@ -1,4 +1,4 @@
-<img src="branding/harmonix_icon.svg" alt="Harmonix Logo" width="100px" height="100px">
+<img src="/branding/harmonix_icon.svg" alt="Harmonix Logo" width="100px" height="100px">
 
 # Harmonix
 
